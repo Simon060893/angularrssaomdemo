@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "dependencies": {},
   "devDependencies": {
+    "express": "latest",
     "grunt": "~0.4.1",
     "grunt-angular-templates": "~0.5.1",
     "grunt-autoprefixer": "~0.4.0",
@@ -48,5 +49,6 @@
   },
   "scripts": {
     "test": "grunt test"
+
   }
 }
