@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Arts",
+    "url": "http://feeds.reuters.com/news/artsculture",
+    "count": 10
+  },
+  {
+    "title": "Business",
+    "url": "http://feeds.reuters.com/reuters/businessNews",
+    "count": 10
+  },
+  {
+    "title": "Sport",
+    "url": "http://feeds.reuters.com/reuters/sportsNews",
+    "count": 10
+  },
+  {
+    "title": "Politics",
+    "url": "http://feeds.reuters.com/Reuters/PoliticsNews",
+    "summary": true,
+    "count": 10
+  },
+  {
+    "title": "World News",
+    "url": "http://feeds.reuters.com/reuters/USVideoWorldNews",
+    "summary": true,
+    "count": 10
+  },
+
+  {
+    "title": "MediaFile",
+    "url": "http://feeds.reuters.com/reuters/blogs/mediafile",
+    "count": 10
+  },
+  {
+    "title": "Environment",
+    "url": "http://feeds.reuters.com/reuters/environment",
+    "count": 10
+  },
+  {
+    "title": "Technology",
+    "url": "http://feeds.reuters.com/reuters/technologysectorNews",
+    "count": 10
+  },
+  {
+    "title": "Economy",
+    "url": "http://feeds.reuters.com/news/economy",
+    "count": 10
+  },
+  {
+    "title": "Abcnews",
+    "url": "http://feeds.abcnews.com/abcnews/topstories",
+    "count": 10
+  }
+]
